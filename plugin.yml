@@ -1,0 +1,20 @@
+name: VotePoints
+main: kenygamer\VotePoints\Main
+api: 3.0.0
+version: 1.0.0
+softdepend: [PiggyCustomEnchants]
+depend: [FormAPI]
+author: kenygamer
+description: Vote points system for PocketMine servers
+
+commands:
+  votepoints:
+    description: "Check your vote points and view rewards you can claim"
+    usage: "/votepoints"
+    permission: votepoints.command
+    aliases: ["vp"]
+
+permissions:
+  votepoints.command:
+    description: "Allows access to the vp command."
+    default: true

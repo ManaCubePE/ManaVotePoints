@@ -1,0 +1,21 @@
+# Configuration file for VotePoints
+
+prizes:
+  -
+    cost: 5
+    name: "Voter Kit"
+    items:
+      -
+        diamond_sword:
+          name: "&bVoter Sword"
+          enchants:
+            soulbound: 1
+      -
+        diamond_pickaxe:
+          name: "&bVoter Pickaxe"
+          enchants:
+            soulbound: 1
+      -
+        golden_apple:
+          amount: 16
+          name: "&eGolden Apple"
