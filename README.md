@@ -1,4 +1,4 @@
-<h1>VotePoints&nbsp;<img src="https://u.cubeupload.com/kenygamer/9CD960BEF1C74BDB8CD6.png" width="150" height="150" style="display: block; margin: 0 auto;" align="left"></img></h1>
+<h1>VotePoints&nbsp;<a href="https://poggit.pmmp.io/p/VotePoints"><img src="https://poggit.pmmp.io/shield.state/VotePoints"></a><img src="https://u.cubeupload.com/kenygamer/9CD960BEF1C74BDB8CD6.png" width="150" height="150" style="display: block; margin: 0 auto;" align="left"></img></h1>
 <p text-align="left">VotePoints is a PocketMine-MP plugin to bring vote points to your server. Have you heard of these? And you can claim rewards by voting in your favorite servers? This is the first public version of the plugin for you to use and enjoy!</p>
 
 ## Features
