@@ -3,8 +3,8 @@
 
 ## Features
 - Simple and lightweight UI-based vote points system.
-- Configurable messages (see `lang.properties`) and an exhaustive per-item configuration (use entries `name:`, `quantity:`, `lore:`, `enchants:`)
-- [PiggyCustomEnchants](https://github.com/DaPigGuy/PiggyCustomEnchants) support and vanilla enchants (all registered enchantments are actually supported).
+- Configurable messages (see `lang.properties`) and an exhaustive per-item configuration (use entries `name:`, `count:`, `lore:`, `enchants:`)
+- [PiggyCustomEnchants v2](https://github.com/DaPigGuy/PiggyCustomEnchants) support and vanilla enchants (all registered enchantments are actually supported).
 - Easy to connect with any vote plugin ([VoteReward](https://github.com/LukeDarling/VoteReward), [PocketVote](https://github.com/ProjectInfinity/PocketVote-PocketMine), etc.) with the use of OP commands `/vp <add/subtract/see> <player> [points]`
 
 ## Installation
