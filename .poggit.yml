@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/kenygamer/VotePoints
+build-by-default: true
+branches:
+- master
+projects:
+  VotePoints:
+    path: ""
+    icon: "resources/icon.png"
+...
